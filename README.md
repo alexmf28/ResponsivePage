@@ -73,7 +73,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [in-progress](https://{your-web-site-link})
+- GitHub [@alexmf28](https://{github.com/alexmf28})
+- Linkedin [@jaime-alexis-munarriz-fernandez](https://www.linkedin.com/in/jaime-alexis-munarriz-fernandez-03b370203/})
  
