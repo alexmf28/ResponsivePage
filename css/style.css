@@ -1,0 +1,130 @@
+body {
+  background-color: rgb(241, 241, 241);
+}
+.contenedor {
+  width: 80%;
+  padding: 5px;
+  margin: 15px;
+}
+
+.col {
+  padding-top: 80px;
+  column-count: 2;
+  width: 100%;
+}
+
+.parrafos {
+  width: 100%;
+  margin-left: 120px;
+}
+
+img {
+  position: relative;
+  left: 5.35%;
+  right: 57.21%;
+  top: 24.54%;
+  bottom: 34.03%;
+  width: 539.22px;
+  height: 447.43px;
+}
+
+.head {
+  font-family: "Inconsolata", monospace;
+  font-style: bold;
+  font-weight: 1000;
+  font-size: 25px;
+  line-height: 95px;
+  letter-spacing: -0.035em;
+  color: #333333;
+  margin-left: 7%;
+}
+.titulo {
+  font-family: "Inconsolata", monospace;
+  font-style: bold;
+  font-weight: 1000;
+  font-size: 70px;
+  line-height: 95px;
+  letter-spacing: -0.035em;
+  color: #333333;
+}
+
+p {
+  font-family: "Inconsolata", monospace;
+  font-size: 20px;
+  font-weight: normal;
+  color: #4f4f4f;
+  padding-bottom: 20px;
+  margin-right: 20px;
+  width: 60%;
+}
+button {
+  position: relative;
+  font-family: "Inconsolata", monospace;
+  font-style: normal;
+  color: white;
+  width: 150px;
+  height: 50px;
+  font-size: 12px;
+
+  /* Gray 1 */
+
+  background: #333333;
+}
+footer {
+  position: relative;
+  width: 50%;
+  height: 17px;
+  left: 477px;
+  top: 377px;
+
+  font-family: "Montserrat", Courier;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 17px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #bdbdbd;
+}
+@media screen and (max-width: 375px) {
+  footer {
+    left: 12%;
+    top: 480px;
+    text-align: center;
+    grid-template-columns: 1fr;
+    width: 100%;
+    font-size: 12px;
+  }
+  img {
+    width: 280px;
+    height: 280px;
+    grid-template-columns: 1fr;
+    margin-left: 10%;
+  }
+  .titulo {
+    font-size: 45px;
+    grid-template-columns: 1fr;
+  }
+  .parrafos {
+    position: absolute;
+    text-align: justify;
+    margin-left: 12px;
+    width: 80%;
+
+    grid-template-columns: 1fr;
+  }
+  .col {
+    padding: 0px;
+    margin: 0px;
+    grid-template-columns: 1fr;
+  }
+  .contenedor {
+    grid-template-columns: 1fr;
+  }
+  p {
+    grid-template-columns: 1fr;
+    width: 100%;
+  }
+}
