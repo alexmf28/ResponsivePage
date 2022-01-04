@@ -66,6 +66,7 @@ button {
   height: 50px;
   font-size: 12px;
   border-radius: 5px;
+  box-shadow: lightslategray 6px 8px 10px;
 
   /* Gray 1 */
 
@@ -73,6 +74,7 @@ button {
 }
 button:hover {
   background-color: #6e6e6e;
+  box-shadow: black 6px 7px 10px;
 }
 footer {
   position: relative;
