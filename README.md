@@ -38,7 +38,6 @@
 [![Responsive-Page.png](https://i.postimg.cc/LXHx9cf4/Responsive-Page.png)](https://postimg.cc/hJ5LM3pN)
 [![Responsive-Dev.png](https://i.postimg.cc/gJNNngqV/Responsive-Dev.png)](https://postimg.cc/LYgzWBW5)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
 - What was your experience?
@@ -54,7 +53,6 @@ beginner🤙
 
 - [HTML]
 - [CSS]
-- [JavaScript]
 
 ## Features
 
